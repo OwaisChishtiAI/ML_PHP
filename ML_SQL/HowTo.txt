@@ -1,0 +1,12 @@
+1) Run XAMPP or any other server.
+2) Navigate to localhost:port/phpmyadmin (SQL server)
+3) Navigate to localhost:port/ML_SQL (To download csv file)
+4) Place that csv file to your project directory. XAMPP/htdocs in my case.
+5) then, Navigate to localhost:port/ML_SQL/html_tables.php
+6) Here, you'll have 3 lists namely,
+* Average, minimum and maximum for every 10 values in Array form.
+* Average, minimum and maximum for every 10 values in Tabular form.
+* Labels for category of Speed factors.
+
+
+YOU CAN FIND THIS FILE WITH CODES, I'LL SEND YOU.
